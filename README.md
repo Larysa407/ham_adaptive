@@ -1,4 +1,4 @@
-# step-project-cards
+# gulp
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/Larysa_Semerikova/step-project-cards.git
+git remote add origin https://gitlab.com/Larysa_Semerikova/gulp.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/Larysa_Semerikova/step-project-cards/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.com/Larysa_Semerikova/gulp/-/settings/integrations)
 
 ## Collaborate with your team
 
