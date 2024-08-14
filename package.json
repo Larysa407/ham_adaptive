@@ -1,7 +1,7 @@
 {
   "name": "gulp",
   "version": "1.0.0",
-  "description": "gulp-pack",
+  "description": "personal project",
   "type": "module",
   "main": "app.js",
   "scripts": {
